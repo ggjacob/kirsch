@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Super Laravel</title>
+		<title>Dr. Kirsch</title>
 		
 		{{ HTML::style('css/style.css') }}
 
