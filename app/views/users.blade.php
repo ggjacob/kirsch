@@ -16,12 +16,12 @@
 				<ul>
 					<li><a href="#">Face</a>
 						<ul class='subnav'>
-							<li><a id='nav-facelift' href='#'>Face Lift</a></li>
-							<li><a id='nav-eyelid' href='#'>Eyelid/Blepharoplasty</a></li>
-							<li><a id='nav-brow' href='#'>Brow lift</a></li>
-							<li><a id='nav-neck' href='#'>Neck Lift</a></li>
-							<li><a id='nav-ears' href='#'>Ears</a></li>
-							<li><a id='nav-nose' href='#'>Nose/Rhinoplasty</a></li>
+							<li><a class='nav-facelift' href='#'>Face Lift</a></li>
+							<li><a class='nav-eyelid' href='#'>Eyelid/Blepharoplasty</a></li>
+							<li><a class='nav-brow' href='#'>Brow lift</a></li>
+							<li><a class='nav-neck' href='#'>Neck Lift</a></li>
+							<li><a class='nav-ears' href='#'>Ears</a></li>
+							<li><a class='nav-nose' href='#'>Nose/Rhinoplasty</a></li>
 						</ul>
 					</li>
 					<li><a href="#">Body</a>
@@ -56,7 +56,9 @@
 		</ul>
 		</nav>
 
+@include('sidebar')
 @include('nav-text')
+
 <!--@include('footer')-->
 
 @stop

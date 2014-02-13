@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Dr. Kirsch</title>
@@ -10,7 +11,8 @@
 
 		
 	</head>
-	<body>
+	<body style="background-image:url('ws3.jpg');background-repeat: no repeat;background-size:cover;">
 		@yield('content')
+		@yield('sidebar')
 		@yield('nav-text')
 	</body>

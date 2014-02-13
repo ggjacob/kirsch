@@ -7,46 +7,51 @@
 </div>
 -->
 
-<div id='wrapper'>
-	<!--<img src="ws3.jpg">-->
+
 	<div id='box'>
 			<script type='text/javascript'>
 //FACE Section	
 					$(document).ready(function(){
-						$('#nav-facelift').click(function(){
+						$('.nav-facelift').click(function(){
 							$('.text').hide();
-							$('.doc').hide();
+							$('.side-nav').hide();
 							$('#facelift').fadeIn("slow");
+							$('#face-all').fadeIn("slow");
 							});
 						
-						$('#nav-eyelid').click(function(){
+						$('.nav-eyelid').click(function(){
 							$('.text').hide();
-							$('.doc').hide();
+
 							$('#eyelid').fadeIn("slow");
+							$('#face-all').fadeIn("slow");
 							});
 
-						$('#nav-brow').click(function(){
+						$('.nav-brow').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
 							$('#brow').fadeIn("slow");
+							$('#face-all').fadeIn("slow");
 							});
 
-						$('#nav-neck').click(function(){
+						$('.nav-neck').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
 							$('#neck').fadeIn("slow");
+							$('#face-all').fadeIn("slow");
 							});
 
-						$('#nav-ears').click(function(){
+						$('.nav-ears').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
 							$('#ears').fadeIn("slow");
+							$('#face-all').fadeIn("slow");
 							});
 
-						$('#nav-nose').click(function(){
+						$('.nav-nose').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
 							$('#nose').fadeIn("slow");
+							$('#face-all').fadeIn("slow");
 							});
 //BODY SECTION
 						$('#nav-tummy').click(function(){

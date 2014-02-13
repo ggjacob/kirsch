@@ -27,6 +27,11 @@ Route::get('nav-text', function()
 	return View::make('nav-text');
 });
 
+Route::get('sidebar', function()
+{
+	return View::make('sidebar');
+});
+
 Route::get('footer', function()
 {
 	return View::make('footer');
