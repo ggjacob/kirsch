@@ -7,7 +7,7 @@
 </div>
 -->
 
-
+@include('sidebar')
 	<div id='box'>
 			<script type='text/javascript'>
 //FACE Section	

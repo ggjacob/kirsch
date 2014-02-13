@@ -56,7 +56,7 @@
 		</ul>
 		</nav>
 
-@include('sidebar')
+
 @include('nav-text')
 
 
