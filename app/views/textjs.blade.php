@@ -1,10 +1,17 @@
 			<script type='text/javascript'>
 //FACE Section	
 					$(document).ready(function(){
-						$('.nav-facelift').click(function(){
+						$('#nav-face').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
 							$('.side-nav').hide();
+							$('#facelift').fadeIn("slow");
+							$('#face-all').fadeIn("slow");
+						});
+
+						$('.nav-facelift').click(function(){
+							$('.text').hide();
+							$('.doc').hide();
 							$('#facelift').fadeIn("slow");
 							$('#face-all').fadeIn("slow");
 							});
@@ -12,7 +19,6 @@
 						$('.nav-eyelid').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#eyelid').fadeIn("slow");
 							$('#face-all').fadeIn("slow");
 							});
@@ -20,7 +26,6 @@
 						$('.nav-brow').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#brow').fadeIn("slow");
 							$('#face-all').fadeIn("slow");
 							});
@@ -28,7 +33,6 @@
 						$('.nav-neck').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#neck').fadeIn("slow");
 							$('#face-all').fadeIn("slow");
 							});
@@ -36,7 +40,6 @@
 						$('.nav-ears').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#ears').fadeIn("slow");
 							$('#face-all').fadeIn("slow");
 							});
@@ -44,15 +47,21 @@
 						$('.nav-nose').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#nose').fadeIn("slow");
 							$('#face-all').fadeIn("slow");
 							});
 //BODY SECTION
-						$('.nav-tummy').click(function(){
+						$('#nav-body').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
 							$('.side-nav').hide();
+							$('#facelift').fadeIn("slow");
+							$('#body-all').fadeIn("slow");
+							});
+
+						$('.nav-tummy').click(function(){
+							$('.text').hide();
+							$('.doc').hide();
 							$('#tummy').fadeIn("slow");
 							$('#body-all').fadeIn("slow");
 							});
@@ -60,7 +69,6 @@
 						$('.nav-lipo').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#lipo').fadeIn("slow");
 							$('#body-all').fadeIn("slow");
 							});
@@ -68,7 +76,6 @@
 						$('.nav-thighs').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#thighs').fadeIn("slow");
 							$('#body-all').fadeIn("slow");
 							});
@@ -76,15 +83,21 @@
 						$('.nav-PWL').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#PWL').fadeIn("slow");
 							$('#body-all').fadeIn("slow");
 							});
 //BREAST SECTION
-						$('.nav-augmentation').click(function(){
+						$('#nav-breast').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
 							$('.side-nav').hide();
+							$('#facelift').fadeIn("slow");
+							$('#breast-all').fadeIn("slow");
+							});
+
+						$('.nav-augmentation').click(function(){
+							$('.text').hide();
+							$('.doc').hide();
 							$('#augmentation').fadeIn("slow");
 							$('#breast-all').fadeIn("slow");
 							});
@@ -92,7 +105,6 @@
 						$('.nav-lift').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#lift').fadeIn("slow");
 							$('#breast-all').fadeIn("slow");
 							});
@@ -100,7 +112,6 @@
 						$('.nav-reduction').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#reduction').fadeIn("slow");
 							$('#breast-all').fadeIn("slow");
 							});
@@ -108,15 +119,21 @@
 						$('.nav-reconstruction').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#reconstruction').fadeIn("slow");
 							$('#breast-all').fadeIn("slow");
 							});
 //DR KIRSCH SECTION
-						$('.nav-education').click(function(){
+						$('#nav-kirsch').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
 							$('.side-nav').hide();
+							$('#facelift').fadeIn("slow");
+							$('#kirsch-all').fadeIn("slow");
+							});
+
+						$('.nav-education').click(function(){
+							$('.text').hide();
+							$('.doc').hide();
 							$('#education').fadeIn("slow");
 							$('#kirsch-all').fadeIn("slow");
 							});
@@ -124,7 +141,6 @@
 						$('.nav-experience').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
-							$('.side-nav').hide();
 							$('#experience').fadeIn("slow");
 							$('#kirsch-all').fadeIn("slow");
 							});

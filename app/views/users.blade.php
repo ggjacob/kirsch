@@ -14,39 +14,39 @@
 			<li><a href="users">Home</a></li>
 			<li><a href="#">Services</a>
 				<ul>
-					<li><a href="#">Face</a>
-						<ul class='subnav'>
+					<li><a id='nav-face' href="#">Face</a>
+						<!--<ul class='subnav'>
 							<li><a class='nav-facelift' href='#'>Face Lift</a></li>
 							<li><a class='nav-eyelid' href='#'>Eyelid/Blepharoplasty</a></li>
 							<li><a class='nav-brow' href='#'>Brow lift</a></li>
 							<li><a class='nav-neck' href='#'>Neck Lift</a></li>
 							<li><a class='nav-ears' href='#'>Ears</a></li>
 							<li><a class='nav-nose' href='#'>Nose/Rhinoplasty</a></li>
-						</ul>
+						</ul>-->
 					</li>
-					<li><a href="#">Body</a>
-						<ul>
+					<li><a id='nav-body' href="#">Body</a>
+					<!--	<ul>
 							<li><a class='nav-tummy' href='#'>Abdomen/Tummy Tuck</a></li>
 							<li><a class='nav-lipo' href='#'>Liposuction</a></li>
 							<li><a class='nav-thighs' href='#'>Thighs</a></li>
 							<li><a class='nav-PWL' href='#'>Post Weight Loss</a></li>
-						</ul>
+						</ul>-->
 					</li>
-					<li><a href="#">Breast</a>
-						<ul>
+					<li><a id='nav-breast' href="#">Breast</a>
+					<!--	<ul>
 							<li><a class='nav-augmentation' href="#">Breast Augmentation</a></li>
 							<li><a class='nav-lift' href="#">Breast Lift</a></li>
 							<li><a class='nav-reduction' href="#">Breast Reduction</a></li>
 							<li><a class='nav-reconstruction' href="#">Mastectomy Reconstruction</a></li>
-						</ul>
+						</ul>-->
 					</li>
 				</ul>
 			</li>
-			<li><a href="#">Dr. Kirsch</a>
-				<ul>
+			<li><a id='nav-kirsch' href="#">Dr. Kirsch</a>
+				<!--<ul>
 					<li><a class='nav-education' href="#">Education</a></li>
 					<li><a class='nav-experience' href="#">Experience</a></li>
-				</ul>
+				</ul>-->
 			</li>
 			<li><a id='nav-questions' href="#">Questions</a></li>
 			<li><a id='nav-contact' href="#">Contact Us</a></li>
