@@ -103,6 +103,7 @@ nav ul { 				/* MAIN NAV COLOR*/
 
 .sidebar{
 	margin-left:20px;
+	text-align: left;
 	float:left;
 	border:solid thin #393939;
 	background-color: #494949;
@@ -114,6 +115,7 @@ nav ul { 				/* MAIN NAV COLOR*/
 	list-style-type: none;
 	display:none;
 	text-align: left;
+	padding:5px;
 }
 .sidebar a{
 	color: #eee;

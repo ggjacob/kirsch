@@ -3,7 +3,7 @@
 
 
 
-<body>
+
 	<div id='heading'>
 		<!--<img id='ws-pic' src="ws2.jpg">-->
 		<h1>M. Lee Kirsch, M.D</h1>
@@ -59,6 +59,6 @@
 @include('sidebar')
 @include('nav-text')
 
-<!--@include('footer')-->
+
 
 @stop
