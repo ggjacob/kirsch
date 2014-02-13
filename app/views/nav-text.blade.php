@@ -14,6 +14,7 @@
 					$(document).ready(function(){
 						$('.nav-facelift').click(function(){
 							$('.text').hide();
+							$('.doc').hide();
 							$('.side-nav').hide();
 							$('#facelift').fadeIn("slow");
 							$('#face-all').fadeIn("slow");
@@ -21,7 +22,7 @@
 						
 						$('.nav-eyelid').click(function(){
 							$('.text').hide();
-
+							$('.doc').hide();
 							$('#eyelid').fadeIn("slow");
 							$('#face-all').fadeIn("slow");
 							});
