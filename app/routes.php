@@ -22,14 +22,14 @@ Route::get('users', function()
 
 });
 
-Route::get('nav-text', function()
-{
-	return View::make('nav-text');
-});
-
 Route::get('sidebar', function()
 {
 	return View::make('sidebar');
+});
+
+Route::get('nav-text', function()
+{
+	return View::make('nav-text');
 });
 
 Route::get('footer', function()
