@@ -19,7 +19,11 @@ Route::get('/', function()
 Route::get('users', function()
 {
 	return View::make('users');
+});
 
+Route::get('textjs', function()
+{
+	return View::make('textjs');
 });
 
 Route::get('sidebar', function()

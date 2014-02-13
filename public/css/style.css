@@ -107,7 +107,7 @@ nav ul { 				/* MAIN NAV COLOR*/
 	float:left;
 	border:solid thin #393939;
 	background-color: #494949;
-
+	box-shadow: 1px 2px 2px;
 	opacity:0.7;
 }
 .sidebar ul{
@@ -127,7 +127,7 @@ nav ul { 				/* MAIN NAV COLOR*/
 
 #box {
 	width:50%;
-	box-shadow: -1px 2px 2px, 2px 2px 2px;
+	box-shadow: 2px 2px 2px black;
 	color:white	;
 	background-color:#494949;
 	font-family:'Americana';
@@ -143,18 +143,9 @@ nav ul { 				/* MAIN NAV COLOR*/
 	font: 'Americana';
 }
 
-#box-left {
-	float: left;
-}
 
-#box-right {
-	float: right;
-	height:400px;
-	background: #fff;
-	box-shadow: -1px 2px 2px, 2px 2px 2px;
-	text-align: center;
-	opacity:0.8;
-}
+
+
 
 #footer {
 	height:100px;

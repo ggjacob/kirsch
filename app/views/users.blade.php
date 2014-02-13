@@ -26,26 +26,26 @@
 					</li>
 					<li><a href="#">Body</a>
 						<ul>
-							<li><a id='nav-tummy' href='#'>Abdomen/Tummy Tuck</a></li>
-							<li><a id='nav-lipo' href='#'>Liposuction</a></li>
-							<li><a id='nav-thighs' href='#'>Thighs</a></li>
-							<li><a id='nav-PWL' href='#'>Post Weight Loss</a></li>
+							<li><a class='nav-tummy' href='#'>Abdomen/Tummy Tuck</a></li>
+							<li><a class='nav-lipo' href='#'>Liposuction</a></li>
+							<li><a class='nav-thighs' href='#'>Thighs</a></li>
+							<li><a class='nav-PWL' href='#'>Post Weight Loss</a></li>
 						</ul>
 					</li>
 					<li><a href="#">Breast</a>
 						<ul>
-							<li><a id='nav-augmentation' href="#">Breast Augmentation</a></li>
-							<li><a id='nav-lift' href="#">Breast Lift</a></li>
-							<li><a id='nav-reduction' href="#">Breast Reduction</a></li>
-							<li><a id='nav-reconstruction' href="#">Mastectomy Reconstruction</a></li>
+							<li><a class='nav-augmentation' href="#">Breast Augmentation</a></li>
+							<li><a class='nav-lift' href="#">Breast Lift</a></li>
+							<li><a class='nav-reduction' href="#">Breast Reduction</a></li>
+							<li><a class='nav-reconstruction' href="#">Mastectomy Reconstruction</a></li>
 						</ul>
 					</li>
 				</ul>
 			</li>
 			<li><a href="#">Dr. Kirsch</a>
 				<ul>
-					<li><a id='nav-education' href="#">Education</a></li>
-					<li><a id='nav-experience' href="#">Experience</a></li>
+					<li><a class='nav-education' href="#">Education</a></li>
+					<li><a class='nav-experience' href="#">Experience</a></li>
 				</ul>
 			</li>
 			<li><a id='nav-questions' href="#">Questions</a></li>

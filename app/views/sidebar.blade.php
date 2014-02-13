@@ -9,15 +9,19 @@
 		<li><a class='nav-nose' href='#'>Nose/Rhinoplasty</a></li><br>
 	</ul>
 	<ul class='side-nav' id='body-all'>
-		<li><a href='#'>Abdomen/Tummy Tuck</a></li><br />
-		<li><a href='#'>Liposuction</a></li><br />
-		<li><a href='#'>Thighs</a></li><br />
-		<li><a href='#'>Post Weight Loss</a></li><br />
+		<li><a class='nav-tummy' href='#'>Abdomen/Tummy Tuck</a></li><br>
+		<li><a class='nav-lipo' href='#'>Liposuction</a></li><br>
+		<li><a class='nav-thighs' href='#'>Thighs</a></li><br>
+		<li><a class='nav-PWL' href='#'>Post Weight Loss</a></li><br>
 	</ul>
 	<ul class='side-nav' id='breast-all'>
-		<li><a href='#'>Breast Augmentation</a></li><br />
-		<li><a href='#'>Breast Lift</a></li><br />
-		<li><a href='#'>Breast Reduction</a></li><br />
-		<li><a href='#'>Mastectomy Reconstruction</a></li><br />
+		<li><a class='nav-augmentation' href="#">Breast Augmentation</a></li><br>
+		<li><a class='nav-lift' href="#">Breast Lift</a></li><br>
+		<li><a class='nav-reduction' href="#">Breast Reduction</a></li><br>
+		<li><a class='nav-reconstruction' href="#">Mastectomy Reconstruction</a></li><br>
+	</ul>
+	<ul class='side-nav' id='kirsch-all'>
+		<li><a class='nav-education' href="#">Education</a></li><br>
+		<li><a class='nav-experience' href="#">Experience</a></li><br>
 	</ul>
 </div>
