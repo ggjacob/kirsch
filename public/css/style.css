@@ -113,10 +113,12 @@ nav ul { 				/* MAIN NAV COLOR*/
 .sidebar ul{
 	list-style-type: none;
 	display:none;
+	text-align: left;
 }
 .sidebar a{
 	color: #eee;
 	text-decoration: none;
+	text-align: left;
 }
 .sidebar a:visited{
 	color: #eee;
