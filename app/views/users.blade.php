@@ -5,9 +5,9 @@
 
 
 	<div id='heading'>
-		<!--<img id='ws-pic' src="ws2.jpg">-->
 		<h1>M. Lee Kirsch, M.D</h1>
 		<p class='title'>Plastic & Reconstructive Surgery</br>336-760-4783</p>
+		<img id='logo' src='logo.png'>
 	</div>
 		<nav id ='navbar'>
 		<ul>
