@@ -11,8 +11,9 @@
 
 		
 	</head>
-	<body style="background-image:url('ws3.jpg');background-repeat: no repeat;background-size:cover;">
+	<body><!--style="background-image:url('ws3.jpg');background-repeat: no repeat;background-size:cover;"-->
 		@yield('content')
 		@yield('sidebar')
 		@yield('nav-text')
+
 	</body>

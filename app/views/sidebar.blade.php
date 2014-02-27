@@ -1,5 +1,6 @@
 
 <div class='sidebar'>
+	<img id='sidepic' src="breast3.png" style='height:200px;'>
 	<ul class='side-nav'id='face-all'>
 		<li><a class='nav-facelift' href='#'>Face Lift</a></li><br>
 		<li><a class='nav-eyelid' href='#'>Eyelid/Blepharoplasty</a></li><br>

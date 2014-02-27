@@ -4,6 +4,7 @@
 						$('#nav-face').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
+							$('#sidepic').hide();
 							$('.side-nav').hide();
 							$('#facelift').fadeIn("slow");
 							$('#face-all').fadeIn("slow");
@@ -54,6 +55,7 @@
 						$('#nav-body').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
+							$('#sidepic').hide();
 							$('.side-nav').hide();
 							$('#facelift').fadeIn("slow");
 							$('#body-all').fadeIn("slow");
@@ -90,6 +92,7 @@
 						$('#nav-breast').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
+							$('#sidepic').hide();
 							$('.side-nav').hide();
 							$('#facelift').fadeIn("slow");
 							$('#breast-all').fadeIn("slow");
@@ -126,6 +129,7 @@
 						$('#nav-kirsch').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
+							$('#sidepic').hide();
 							$('.side-nav').hide();
 							$('#facelift').fadeIn("slow");
 							$('#kirsch-all').fadeIn("slow");
@@ -148,6 +152,7 @@
 						$('#nav-questions').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
+							$('#sidepic').fadeIn();
 							$('.side-nav').hide();
 							$('#questions').fadeIn("slow");
 							});
@@ -157,6 +162,7 @@
 							$('.text').hide();
 							$('.doc').hide();
 							$('.side-nav').hide();
+							$('#sidepic').fadeIn("slow");
 							$('#contact').fadeIn("slow");
 							});
 
@@ -165,6 +171,7 @@
 							$('.text').hide();
 							$('.doc').hide();
 							$('.side-nav').hide();
+							$('#sidepic').fadeIn("slow");
 							$('#news').fadeIn("slow");
 							});
 
@@ -173,6 +180,7 @@
 							$('.text').hide();
 							$('.doc').hide();
 							$('.side-nav').hide();
+							$('#sidepic').fadeIn("slow");
 							$('#photos').fadeIn("slow");
 							});
 						
