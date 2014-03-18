@@ -1,4 +1,12 @@
 <div class='wrapper'>
+
+	<div class='box-header'>
+		<ul>
+			<li><a id='nav-face' href="#">Face</a></li>
+			<li><a id='nav-body' href="#">Body</a></li>
+			<li><a id='nav-breast' href="#">Breast</a></li>
+		</ul>
+	</div>
 @include('sidebar')
 @include('textjs')
 	
@@ -7,10 +15,10 @@
 			<div class='doc'>
 				<h4>Winston Salem's Finest Plactic Surgery Practice</h4>
 				<h5>serving The Triad and surrounding areas since 1978</h5>
-				<img src="breast.jpg">
+				<img src="doc.jpeg">
 			</div>
 <!--Services !FACE! nav items-->
-			<p class='text' id='facelift'>This is the "Facelift" section. Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+			<p class='text' id='facelift'><strong>This is the "Facelift" section.</strong> Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 				Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
 				when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 				It has survived not only five centuries, but also the leap into electronic typesetting, 
@@ -26,7 +34,7 @@
 				with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 				
 
-			<p class='text' id='eyelid'>This is "Eyelid" section.  Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+			<p class='text' id='eyelid'><strong>This is "Eyelid" section.</strong>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 				Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
 				when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 				It has survived not only five centuries, but also the leap into electronic typesetting, 

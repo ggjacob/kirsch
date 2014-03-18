@@ -19,7 +19,7 @@
 		<li><a class='nav-augmentation' href="#">Breast Augmentation</a></li><br>
 		<li><a class='nav-lift' href="#">Breast Lift</a></li><br>
 		<li><a class='nav-reduction' href="#">Breast Reduction</a></li><br>
-		<li><a class='nav-reconstruction' href="#">Mastectomy Reconstruction</a></li><br>
+		<li><a class='nav-reconstruction' href="#">Mastectomy/ Reconstruction</a></li><br>
 	</ul>
 	<ul class='side-nav' id='kirsch-all'>
 		<li><a class='nav-education' href="#">Education</a></li><br>

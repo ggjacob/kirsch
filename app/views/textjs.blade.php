@@ -1,6 +1,9 @@
 			<script type='text/javascript'>
 //FACE Section	
 					$(document).ready(function(){
+						$('#nav-procedures').click(function(){
+							$('.box-header').show('slow');
+						});
 						$('#nav-face').click(function(){
 							$('.text').hide();
 							$('.doc').hide();
@@ -57,7 +60,7 @@
 							$('.doc').hide();
 							$('#sidepic').hide();
 							$('.side-nav').hide();
-							$('#facelift').fadeIn("slow");
+							$('#tummy').fadeIn("slow");
 							$('#body-all').fadeIn("slow");
 							});
 
@@ -94,7 +97,7 @@
 							$('.doc').hide();
 							$('#sidepic').hide();
 							$('.side-nav').hide();
-							$('#facelift').fadeIn("slow");
+							$('#augmentation').fadeIn("slow");
 							$('#breast-all').fadeIn("slow");
 							});
 
@@ -127,6 +130,7 @@
 							});
 //DR KIRSCH SECTION
 						$('#nav-kirsch').click(function(){
+							$('.box-header').hide('slow');
 							$('.text').hide();
 							$('.doc').hide();
 							$('#sidepic').hide();
@@ -150,6 +154,7 @@
 							});
 //!QUESTIONS! SECTION
 						$('#nav-questions').click(function(){
+							$('.box-header').hide('slow');
 							$('.text').hide();
 							$('.doc').hide();
 							$('#sidepic').fadeIn();
@@ -159,6 +164,7 @@
 
 //!CONTACT! SECTION
 						$('#nav-contact').click(function(){
+							$('.box-header').hide('slow');
 							$('.text').hide();
 							$('.doc').hide();
 							$('.side-nav').hide();
@@ -168,6 +174,7 @@
 
 //!NEWS AND MEDIA! SECTION
 						$('#nav-news').click(function(){
+							$('.box-header').hide('slow');
 							$('.text').hide();
 							$('.doc').hide();
 							$('.side-nav').hide();
@@ -177,6 +184,7 @@
 
 //!PHOTOS! SECTION
 						$('#nav-photos').click(function(){
+							$('.box-header').hide('slow');
 							$('.text').hide();
 							$('.doc').hide();
 							$('.side-nav').hide();
